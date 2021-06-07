@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+![boston city](https://user-images.githubusercontent.com/20154390/120948461-a1a4b280-c718-11eb-8055-70743920ac7d.jpg)
+
 You can use the [editor on GitHub](https://github.com/gabrielgomes0311/boston_airbnb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
