@@ -9,13 +9,13 @@
 
 Libraries used:
 
-pandas
-numpy
-seaborn
-matplotlib.pyplot
-datetime
-folium
-sklearn
+.pandas
+.numpy
+.seaborn
+.matplotlib
+.datetime
+.folium
+.sklearn
 
 ## Project Motivation <a name="motivation"></a>
 
