@@ -26,24 +26,23 @@ The dialy price did not had the same fall.
 
 ### Review rating
 
+Revenue it`s not everything, Airbnb wants the best experience for their guests. Therefore, review rating is a strategic indicator for Airbnb business.
+
+In the chart below we can see that the median rating it`s higer than 90, which is a really good thing. We can also see that at least 25% of the houses have a rating below of 90, and a lot outliers are below of 80.
+
 ![reviw_rating](https://user-images.githubusercontent.com/20154390/121002898-3e8c3d80-c763-11eb-895d-a3afc9e57751.png)
+
+How we can help this hosts to get a better review rating?
 
 ## 2. Where are the houses?
 
+To better understand the Boston market and know the places where our help will bring the maximum return, we need to see how the houses are distributed in the city area. We can see we have a lot of houses close to Fenway Park, Chinatown has number of houses too and the regions close to the Historic Downtown.
+
 ![map_boston](https://user-images.githubusercontent.com/20154390/120953267-ffd69300-c722-11eb-83ed-54d846640fb8.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## 3. Which are the best neighbourhoods?
 
-### Jekyll Themes
+To see if some neighbourhoods have a worst review rating than others and where our help can lead to a higher daily price and a increase on revenue.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gabrielgomes0311/boston_airbnb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-You can use the [editor on GitHub](https://github.com/gabrielgomes0311/boston_airbnb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Neighbourhood rating and price](https://user-images.githubusercontent.com/20154390/121348359-a4f99300-c8fe-11eb-85c0-56c1781ec128.png)
