@@ -54,6 +54,8 @@ Allston-Brighton and Dorchester are the bet fit for this three criteria and will
 
 ## Next step: How we can help the hosts?
 
-In a future analysis we can use the reviews and try to find patterns in the negative reviews, see where is the common problems for the hosts and think on ways too solve it. If the guests are complaining about the cleanliness, we could partner with a cleaning company to help, if the problem is the hosts reception, we could create courses to help on how to be more receptive.
+In a future analysis we can use the reviews and try to find patterns in the negative reviews, see where is the common problems for the hosts and think on ways too solve it.
+
+If the guests are complaining about the cleanliness, we could partner with a cleaning company to help, if the problem is the hosts reception, we could create courses to help on how to be more receptive.
 
 Thank you for reading.
