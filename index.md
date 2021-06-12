@@ -1,4 +1,4 @@
-# This is why Boston Airbnb is growing
+# Is Boston Airbnb doing well?
 
 ![boston city](https://user-images.githubusercontent.com/20154390/120948461-a1a4b280-c718-11eb-8055-70743920ac7d.jpg)
 
@@ -6,11 +6,11 @@ For a imaginary Airbnb annual meeting i tried to think on 3 questions that compa
 
 - How much revenue the city generated and how was the made reviews by the guests.
 - Where are the houses, how it is the ditribuiton in the Boston area.
-- How much revenue each neighbourhood makes and how is their review rating
+- How much revenue each neighbourhood makes and how is their review rating to prioritize actions with the hosts.
 
 ## 1. Who we did in this period? (Revenue and review rating)
 
-Airbnb is interested to know not only about revenue and how much the company made that year, but how the guest are feeling about the houses. A low review rating shows that the guests will maybe not come back to Boston or to any Airbnb house. So even with a high annual revenue, if the city has a low review rating this will show that tris operation has a short lifetime ahead.
+Airbnb is interested to know not only about revenue and how much the company made that year, but how the guests are feeling about the houses. A low review rating shows that the guests will maybe not come back to Boston or to any Airbnb house. So even with a high annual revenue, if the city has a low review rating this will show that this operation has a short lifetime ahead.
 
 The total revenue for this period was $ 127 millions with a daily average of $ 350 thousand. In the chart below, we can see that in March had 17% fall on the daily revenue.    
 
@@ -28,7 +28,7 @@ The dialy price did not had the same fall.
 
 Revenue it`s not everything, Airbnb wants the best experience for their guests. Therefore, review rating is a strategic indicator for Airbnb business.
 
-In the chart below we can see that the median rating it`s higer than 90, which is a really good thing. We can also see that at least 25% of the houses have a rating below of 90, and a lot outliers are below of 80.
+In the chart below we can see that the median rating it`s higer than 90, which is a really good thing. We can also see that at least 25% of the houses have a rating below of 90, and there are lot of outliers below 80.
 
 ![reviw_rating](https://user-images.githubusercontent.com/20154390/121002898-3e8c3d80-c763-11eb-895d-a3afc9e57751.png)
 
@@ -46,3 +46,14 @@ To better understand the Boston market and know the places where our help will b
 To see if some neighbourhoods have a worst review rating than others and where our help can lead to a higher daily price and a increase on revenue.
 
 ![Neighbourhood rating and price](https://user-images.githubusercontent.com/20154390/121348359-a4f99300-c8fe-11eb-85c0-56c1781ec128.png)
+
+We find in this chart some neighbourhoods that have a below average review rating and a below average daily price. Those are the ones where we can act and help the hosts.
+
+We should prioritize the biggest neighbourhoods, that already have more guests. In this chart, the size of the point point indicate the number of payments made by guests.
+Allston-Brighton and Dorchester are the bet fit for this three criteria and will receive a closer analysis.
+
+## Next step: How we can help the hosts?
+
+In a future analysis we can use the reviews and try to find patterns in the negative reviews, see where is the common problems for the hosts and think on ways too solve it. If the guests are complaining about the cleanliness, we could partner with a cleaning company to help, if the problem is the hosts reception, we could create courses to help on how to be more receptive.
+
+Thank you for reading.
