@@ -37,7 +37,7 @@ reviews.csv: A table with some os the reviewas made after the stay at the Airbnb
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://github.com/gabrielgomes0311/boston_airbnb/blob/gh-pages/index.md).
+The main findings of the code can be found at the post available [here](https://github.com/gabrielgomes0311/Blog/blob/main/Boston_Airbnb.md).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
